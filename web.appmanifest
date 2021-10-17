@@ -1,0 +1,22 @@
+{
+    "name": "StopWatch App",
+    "short_name": "StopWatch",
+    "description": "SopWatch to count time",
+    "icons": [
+      {
+        "src": "",
+        "sizes": "",
+        "type": ""
+      },
+
+      {
+        "src": "",
+        "sizes": "",
+        "type": ""
+      }
+    ],
+    "start_url": "/index.html",
+    "display": "fullscreen",
+    "theme_color": "#B12A34",
+    "background_color": "#B12A34"
+  }
