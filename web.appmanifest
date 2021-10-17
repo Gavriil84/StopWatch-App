@@ -15,8 +15,8 @@
         "type": ""
       }
     ],
-    "start_url": "/index.html",
-    "display": "fullscreen",
+    "start_url": "http://127.0.0.1:5500/",
+    "display": "standalone",
     "theme_color": "#B12A34",
     "background_color": "#B12A34"
   }
